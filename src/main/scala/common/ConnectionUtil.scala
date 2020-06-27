@@ -19,4 +19,6 @@ object ConnectionUtil {
     .appName("prakash")
     .config("spark.sql.warehouse.dir", "C://Users//prakash.chauhan//workspace//CCA-175//spark-warehouse")
     .getOrCreate()
+
+    
 }
